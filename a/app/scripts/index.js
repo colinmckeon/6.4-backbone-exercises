@@ -14,5 +14,5 @@ blogSubmit.setElement($('#blog-form')[0]);
 
 
 
-blogCollection.fetch();
+
 }); //END OF DOM READY FUNCTION
